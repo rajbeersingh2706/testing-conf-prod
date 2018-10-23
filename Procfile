@@ -1,1 +1,1 @@
-worker: kafkaProducer
+worker: python kafkaProducer.py
